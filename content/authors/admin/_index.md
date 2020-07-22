@@ -2,40 +2,35 @@
 # Display name
 title: Valentina Gonzalez-Rostani
 
-# Username (this should match the folder name)
-authors:
-- admin
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Pittsburgh
+  url: "https://www.polisci.pitt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hi, and welcome! I’m a second-year Ph.D. student at the University of Pittsburgh. My main research interests lie at the intersection of International Political Economy and Comparative Politics.  Specifically, I am working on the impacts of technological change on political consequences such as preferences for redistribution, political disengagement, and populist vote. I am from Uruguay, where I taught classes on labor relations and administration at the Universidad de la Republica.  Before coming to Pitt, I obtained a MA in Public Policies at the Universidad Católica del Uruguay and a BA in Public Accounting from Universidad de la Republica. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Political Economy
+- Representation
+- Political Methodology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Political Science, expected 2024
+    institution: University of Pittsburgh
+  - course: MA in Public Policies 
+    institution: Universidad Católica del Uruguay
+    year: 2019
+  - course: BA in Public Accounting 
+    institution: Universidad de la República
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +39,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:mag384@pitt.edu"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/gonzalezrostani
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gonzalezrostani
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mailto:mag384@pitt.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,7 +61,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi, and welcome! I’m a second-year Ph.D. student at the University of Pittsburgh. My main research interests lie at the intersection of International Political Economy and Comparative Politics. Specifically, I am working on the impacts of technological change on political consequences such as preferences for redistribution, political disengagement, and populist vote. I am from Uruguay, where I taught classes on labor relations and administration at the Universidad de la Republica. Before coming to Pitt, I obtained a MA in Public Policies at the Universidad Católica del Uruguay and a BA in Public Accounting from Universidad de la Republica.
