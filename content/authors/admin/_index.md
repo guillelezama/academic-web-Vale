@@ -61,4 +61,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi, and welcome! I’m a second-year Ph.D. student at the University of Pittsburgh. My main research interests lie at the intersection of International Political Economy and Comparative Politics. Specifically, I am working on the impacts of technological change on political consequences such as preferences for redistribution, political disengagement, and populist vote. I am from Uruguay, where I taught classes on labor relations and administration at the Universidad de la Republica. Before coming to Pitt, I obtained a MA in Public Policies at the Universidad Católica del Uruguay and a BA in Public Accounting from Universidad de la Republica.
+Hi, and welcome! I’m a second-year Ph.D. student at the University of Pittsburgh. My main research interests lie at the intersection of International Political Economy and Comparative Politics. Specifically, I am working on the impacts of technological change on political consequences such as preferences for redistribution, political disengagement, and populist vote. 
+
+I am from Uruguay, where I taught classes on labor relations and administration at the Universidad de la Republica. Before coming to Pitt, I obtained a MA in Public Policies at the Universidad Católica del Uruguay and a BA in Public Accounting from Universidad de la Republica.
