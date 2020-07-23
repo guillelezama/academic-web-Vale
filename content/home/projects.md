@@ -73,7 +73,7 @@ subtitle = ""
 
 "Political consequences of technological change" 2020.
 
-"Do Legislators Support the Push for Same-Sex Marriage? Analysis Using the PELA-USAL Database." 2020 with [Scott Morgenstern](https://smorgens.wixsite.com/website)
+"Do legislators support the push for same-sex marriage? Analysis using the PELA-USAL database." 2020 with [Scott Morgenstern](https://smorgens.wixsite.com/website)
 
 "How worried are they? Postmaterialism and environmental concern among Latin American legislators." 2020 with [Débora Duque Braga](https://www.researchgate.net/profile/Debora_Braga2) and [Katie Angell](https://katieangell.weebly.com/)
 
