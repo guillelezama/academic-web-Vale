@@ -27,7 +27,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Undergraduate's Research Scholarship"
-  company = "Universidad de la Republica (Udelar)"
+  company = "Universidad de la Republica (Udelar), Espacio Interdisciplinario"
   company_url = "https://udelar.edu.uy/portal/"
  date_start = "2016-04-01"
   date_end = "2017-05-01"
