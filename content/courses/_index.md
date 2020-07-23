@@ -13,7 +13,7 @@ layout: docs  # Do not modify.
 
 
 #### Labor relations 
-_Labor relations and labor law and social security_
+_Labor law and social security_
 
 Relaciones Laborales (2014)
 
