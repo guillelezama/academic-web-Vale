@@ -25,14 +25,6 @@ date_format = "Jan 2006"
   date_start = "2016-05-01"
   date_end = "2019-03-01"
 
-[[experience]]
-  title = "Undergraduate's Research Scholarship"
-  company = "Universidad de la Republica (Udelar), Espacio Interdisciplinario"
-  company_url = "https://udelar.edu.uy/portal/"
-  location = "Uruguay"
-  date_start = "2016-04-01"
-  date_end = "2017-05-01"
-
 [[item]]
   organization = ""Universidad de la Republica (Udelar), Espacio Interdisciplinario"
   organization_url = "https://udelar.edu.uy/portal/"
