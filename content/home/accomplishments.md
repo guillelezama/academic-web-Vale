@@ -19,34 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "National Agency of Research and Innovation (ANII)"
+  organization_url = "https://www.anii.org.uy/apoyos/formacion/10/maestrias-y-doctorados-en-uruguay/"
+  title = "Master’s Research Scholarship"
+  date_start = "2016-05-01"
+  date_end = "2019-03-01"
 
+[[experience]]
+  title = "Undergraduate's Research Scholarship"
+  company = "Universidad de la Republica (Udelar), Espacio Interdisciplinario"
+  company_url = "https://udelar.edu.uy/portal/"
+  location = "Uruguay"
+  date_start = "2016-04-01"
+  date_end = "2017-05-01"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = ""Universidad de la Republica (Udelar), Espacio Interdisciplinario"
+  organization_url = "https://udelar.edu.uy/portal/"
+  title = "Undergraduate's Research Scholarship"
+location = "Uruguay"
+  date_start = "2016-04-01"
+  date_end = "2017-05-01"
 
 +++
