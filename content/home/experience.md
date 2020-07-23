@@ -25,27 +25,19 @@ date_format = "Jan 2006"
   date_end = ""
 
 [[experience]]
-  title = "Master’s Research Scholarship"
-  company = "National Agency of Research and Innovation (ANII)"
-  company_url = "https://www.anii.org.uy/apoyos/formacion/10/maestrias-y-doctorados-en-uruguay/"
-  location = "Uruguay"
-  date_start = "2016-05-01"
-  date_end = "2019-03-01"
-
-[[experience]]
   title = "Teaching assistant (TA)"
   company = "Universidad de la Republica (Udelar), Facultad de Ciencias Económicas y Administración (FCEA)"
   company_url = "https://udelar.edu.uy/portal/"
   location = "Uruguay"
   date_start = "2014-05-01"
   date_end = "2019-08-01"
-  
-  [[experience]]
-  title = "Undergraduate's Research Scholarship"
-  company = "Universidad de la Republica (Udelar), Espacio Interdisciplinario"
+ 
+ [[experience]]
+  title = "Academic Advisor of the Dean"
+  company = "Universidad de la Republica (Udelar), Facultad de Ciencias Económicas y Administración (FCEA)"
   company_url = "https://udelar.edu.uy/portal/"
   location = "Uruguay"
-  date_start = "2016-04-01"
-  date_end = "2017-05-01"
+  date_start = "2017-02-01"
+  date_end = "2019-08-01"
   
 +++
