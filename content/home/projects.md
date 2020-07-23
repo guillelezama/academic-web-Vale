@@ -71,16 +71,12 @@ subtitle = ""
 
 ### Working papers 
 
-"The Politics of Non-Contributory Social Policy: Labor Market Institutions and Left Strategies in the Developing World." 2019. With [Irene Menéndez](https://sites.google.com/site/irenemenendez/). Submitted.
+"Political consequences of technological change" 2020.
 
-[Ronconi, Lucas](https://www.iza.org/person/8191/lucas-ronconi), [Ravi Kanbur](https://www.kanbur.dyson.cornell.edu/), and Santiago López-Cariboni. "Who Demands Labour (De) Regulation in the Developing World? Insider–Outsider Theory Revisited." 2019. IZA working paper No. 12831.
+"Do Legislators Support the Push for Same-Sex Marriage? Analysis Using the PELA-USAL Database." 2020 with [Scott Morgenstern](https://smorgens.wixsite.com/website
 
-"Preferences for noncontributory social policy in Latin America." With [Matthew E. Carnes](https://sites.google.com/a/georgetown.edu/mec247/research).
+"How worried are they? Postmaterialism and environmental concern among Latin American legislators." 2020 with [Débora Duque Braga](https://www.researchgate.net/profile/Debora_Braga2) and [Katie Angell](https://katieangell.weebly.com/)
 
-"Local inequality, class-based politics, and the nationalization of the Left in Uruguay." with [Juan A Bogliaccini](https://www.juanbogliaccini.com/)
+"Effects of minimum wage on worforce composition across firms: Does firms' size matters?" 2019. 
 
-"Conditional Compensation: From Industrialization Strategies to the Domestic Politics of Trade Liberalization." Submitted
-
-"Trade, Informality, and Social Insurance." Submitted.
-
-
+"Logros sindicales y relaciones de poder: el caso del SUNCA, Uruguay 2005 – 2014." 2017. ISSN. 2301-1734. _XVI Jornadas de Investigación : la excepcionalidad uruguaya en debate: ¿como el Uruguay no hay?_ See [paper](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/10784)
