@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Graduate Student Assistant (GSA)"
   company = "University of Pittsburgh"
   company_url = "https://www.polisci.pitt.edu/"
-  date_start = "2019-01-08"
+  date_start = "2019-08-01"
   date_end = ""
 
 [[experience]]
@@ -32,4 +32,20 @@ date_format = "Jan 2006"
   date_start = "2016-05-01"
   date_end = "2019-03-01"
 
+[[experience]]
+  title = "Teaching assistant (TA)"
+  company = "Universidad de la Republica (Udelar), Facultad de Ciencias Económicas y Administración (FCEA)"
+  company_url = "https://udelar.edu.uy/portal/"
+  location = "Uruguay"
+  date_start = "2014-05-01"
+  date_end = "2019-08-01"
+  
+  [[experience]]
+  title = "{Undergraduate's Research Scholarship"
+  company = "Universidad de la Republica (Udelar), Espacio Interdisciplinario"
+  company_url = "https://udelar.edu.uy/portal/"
+  location = "Uruguay"
+  date_start = "2016-04-01"
+  date_end = "2017-05-01"
+  
 +++
