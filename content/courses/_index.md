@@ -9,20 +9,29 @@ layout: docs  # Do not modify.
 ---
 
 
-### Undergraduate, Universidad de la Republica  
+### Undergraduate, Universidad de la República  
 
 
-**Labor relations** _Labor relations and labor law and social security_
+**Labor relations** 
+_Labor relations and labor law and social security_
+
 Relaciones Laborales (2014)
+
 Legislación Laboral y Seguridad Social (2015-2019)  
 
-**Cooperatives and Social Organization** _Integral training on housing and building Cooperatives_ 
+**Cooperatives and Social Organization** 
+_Integral training on housing and building Cooperatives_ 
+
 Espacio de Formación Integral (EFI), cooperativas de viviendas (2018)
 
-**Administration** _Administration and management of organizations_
+**Administration** 
+_Administration and management of organizations_
+
 Administración y Gestión de las Organizaciones (2016)
 
-**Accounting** _Accounting Concepts, General Accounting II and III_
+**Accounting** 
+_Accounting Concepts, General Accounting II and III_
+
 Conceptos Contables (2016)
 Contabilidad General II (2016)
 Contabilidad General III (2016)
