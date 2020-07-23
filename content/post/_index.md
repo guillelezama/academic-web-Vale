@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Research grants
 
 # View.
 #   1 = List
