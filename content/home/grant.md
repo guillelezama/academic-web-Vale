@@ -26,9 +26,16 @@ date_format = "Jan 2006"
   date_end = "2019-03-01"
 
 [[experience]]
+  title = "IPSA Summer School, fellowship"
+  company = "Universidad de la Republica (Udelar), Comisión Sectoral de Investigación Científica"
+  company_url = "https://www.csic.edu.uy/"
+ date_start = "2018-02-01"
+  date_end = "2018-02-28"
+  
+[[experience]]
   title = "Undergraduate's Research Scholarship"
   company = "Universidad de la Republica (Udelar), Espacio Interdisciplinario"
-  company_url = "https://udelar.edu.uy/portal/"
+  company_url = "https://www.ei.udelar.edu.uy/"
  date_start = "2016-04-01"
   date_end = "2017-05-01"
  
