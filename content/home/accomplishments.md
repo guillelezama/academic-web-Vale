@@ -18,6 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
   organization = "National Agency of Research and Innovation (ANII)"
   organization_url = "https://www.anii.org.uy/apoyos/formacion/10/maestrias-y-doctorados-en-uruguay/"
