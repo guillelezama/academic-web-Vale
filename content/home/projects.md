@@ -77,6 +77,6 @@ subtitle = ""
 
 "How worried are they? Postmaterialism and environmental concern among Latin American legislators." 2020 with [Débora Duque Braga](https://www.researchgate.net/profile/Debora_Braga2) and [Katie Angell](https://katieangell.weebly.com/)
 
-"Effects of minimum wage on worforce composition across firms: Does firms' size matters?" 2019. 
+"Effects of minimum wage on workforce composition across firms: Does firms' size matters?" 2019. 
 
 "Logros sindicales y relaciones de poder: el caso del SUNCA, Uruguay 2005 – 2014." 2017. ISSN. 2301-1734. _XVI Jornadas de Investigación : la excepcionalidad uruguaya en debate: ¿como el Uruguay no hay?_ See [paper](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/10784)
