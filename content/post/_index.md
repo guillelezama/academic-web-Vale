@@ -11,4 +11,25 @@ view: 2
 header:
   caption: ""
   image: ""
+
 ---
+
+[[item]]
+  organization = "National Agency of Research and Innovation (ANII)"
+  organization_url = "https://www.anii.org.uy/apoyos/formacion/10/maestrias-y-doctorados-en-uruguay/"
+  title = "Master’s Research Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-05-01"
+  date_end = "2019-03-01"
+  description = ""
+  
+[[item]]
+  organization = ""Universidad de la Republica (Udelar), Espacio Interdisciplinario"
+  organization_url = "https://udelar.edu.uy/portal/"
+  title = "Undergraduate's Research Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-04-01"
+  date_end = "2017-05-01"
+  description = ""
