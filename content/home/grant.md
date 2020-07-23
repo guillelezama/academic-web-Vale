@@ -1,6 +1,6 @@
 +++
 # Experience widget.
-widget = "grant"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -18,14 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[grant]]
+[[experience]]
   title = "Master’s Research Scholarship"
   company = "National Agency of Research and Innovation (ANII)"
   company_url = "http://www.anii.org.uy/"
  date_start = "2016-05-01"
   date_end = "2019-03-01"
 
-[[grant]]
+[[experience]]
   title = "Undergraduate's Research Scholarship"
   company = "Universidad de la Republica (Udelar)"
   company_url = "https://udelar.edu.uy/portal/"
