@@ -23,6 +23,11 @@
     name = "CV"
     url = "https://drive.google.com/file/d/1XhcemCq3Wpn0PEMEoRF3RY-AszuyjPat/view?usp=sharing"
     weight = 50
+
+[[main]]
+    name = "Blog"
+    url = "https://medium.com/@gonzalezrostani"
+    weight = 50
     
 [[main]]
   name = "Contact"
