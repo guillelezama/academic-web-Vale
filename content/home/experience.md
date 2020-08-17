@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Graduate Student Assistant (GSA)"
   company = "University of Pittsburgh"
   company_url = "https://www.polisci.pitt.edu/"
-  date_start = "2019-08-01"
+  date_start = "2020-06-01"
   date_end = ""
 
 [[experience]]
