@@ -24,6 +24,13 @@
     url = "cv/"
     weight = 50
 
+
+[[main]]
+  name = "Resources"
+  url = "resources/"
+  weight = 40
+
+
 [[main]]
     name = "Blog"
     url = "https://medium.com/@gonzalezrostani"
