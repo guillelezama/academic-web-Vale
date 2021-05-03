@@ -11,7 +11,7 @@ layout: docs  # Do not modify.
 Hi! Here you can find some side projects of things that I have learned, and I, as I enjoyed learning them, also enjoy sharing them. Most of them are for "beginners," but it is always good to have a nice starting point. I will be updating as I systematize some of my work. I hope you find it useful. 
 
 ### Latex Tips  
-[See here](https://www.overleaf.com/read/rrdfvjbpfyrq)
+[See my repo](https://github.com/gonzalezrostani/Latex-Tips), and [Overleaf](https://www.overleaf.com/read/rrdfvjbpfyrq)
 
 ### Beginning with Github 
 [See my repo](https://github.com/gonzalezrostani/Beginning-with-Git/blob/master/labNotes.md)
