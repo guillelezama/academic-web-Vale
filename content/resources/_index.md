@@ -18,5 +18,6 @@ Hi! Here you can find some side projects of things that I have learned, and I th
 
 ### Introduction to SVM and Scikit-learn 🤖 🦾
 In the following links you can find an introduction to SVM 
-[See my repo](https://github.com/gonzalezrostani/Support-Vector-Machine)
-[Tutorial video](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f994000-d1d1-49bf-bec2-ac810157b3b6)
+
+* [See my repo](https://github.com/gonzalezrostani/Support-Vector-Machine)
+* [Tutorial video](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f994000-d1d1-49bf-bec2-ac810157b3b6)
