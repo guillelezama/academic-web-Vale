@@ -8,7 +8,7 @@ layout: docs  # Do not modify.
 #   image: ""
 ---
 
-Hi! Here you can find some side projects of things that I have learned, and I, as I enjoyed learning them, also enjoy sharing them. Most of them are for "beginners," but it is always good to have a nice starting point. I will be updating as I systematize some of my work. I hope you find it useful. 
+Hi! Here you can find some side projects of things that I have learned, and as I enjoyed learning them, I also enjoy sharing them. Most of them are for "beginners," but it is always good to have a nice starting point. I will be updating as I systematize some of my work. I hope you find it helpful. 
 
 ### Latex Tips  
 [See my repo](https://github.com/gonzalezrostani/Latex-Tips), and [Overleaf](https://www.overleaf.com/read/rrdfvjbpfyrq)
