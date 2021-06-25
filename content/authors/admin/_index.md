@@ -25,6 +25,9 @@ education:
   courses:
   - course: PhD in Political Science, expected 2024
     institution: University of Pittsburgh
+  - course: MA in Political Science.
+    institution: University of Pittsburgh
+    year: 2021
   - course: MA in Public Policies 
     institution: Universidad Católica del Uruguay
     year: 2019
