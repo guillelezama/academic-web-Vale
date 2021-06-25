@@ -10,9 +10,9 @@ layout: docs  # Do not modify.
 
 ### Undergraduate, University of Pittsburgh  
 
-#### Research and Methods 
+#### Research Methods 
 
-Research Methods in Political Science - PS 0700 (Fall 2021) - Instructor [Max Goplerud](https://mgoplerud.com/)
+* Research Methods in Political Science - PS 0700 (Fall 2021) - Instructor [Max Goplerud](https://mgoplerud.com/)
 
 ### Undergraduate, Universidad de la República  
 
