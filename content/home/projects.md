@@ -78,7 +78,7 @@ The issue of same-sex marriage has risen to the top of political agendas across 
 
 ### Work in progress 
 
-**"_Engaged Robots, and Disengaged Workers: Automation and Political Apathy_" 2021.**
+**"_Engaged Robots, and Disengaged Workers: Automation and Political Apathy_" 2021. (to be presented at MPSA 2022)**
 This paper theorizes the mechanism by which, after the wave of automation, vulnerable voters feel detached from political parties.  I name this effect _automation disengagement_.  I argue that we need to understand how automation anxiety thanks to the exposition of risks reflects into individual political preferences.  In particular, I argue that the underlying mechanism is a decline of political engagement, and that is what makes losers of automation more prone to support anti-establishment rhetoric, or what explains the decline in voter turnout.  To test my theoretical framework I focus on 20 European countries and use survey data --European Social Survey (ESS). I provide empirical evidence linking technological change and political disengagement using a Bayesian hierarchical model.  I  find that voters more exposed to technological risks are losing their engagement with political parties.  My findings have important implications for understanding the changes in developed countries' party politics.
 
 **"_Political-Economic Polarization. From Economic Polarization to Partisan Polarization_" 2021. (presented at MPSA 2021 and Workshop at Universidad Católica de Uruguay)** 
