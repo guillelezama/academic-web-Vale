@@ -7,11 +7,21 @@ layout: docs  # Do not modify.
 #   caption: ""
 #   image: ""
 ---
+# Lead Instructor
+
+### Undergraduate, University of Pittsburgh 
+
+#### Research Methods 
+
+* Research Methods in Political Science - PS 0700 (Summer 2022) 
+
+# Teaching Assistant 
 
 ### Undergraduate, University of Pittsburgh  
 
 #### Research Methods 
 
+* Research Methods in Political Science - PS 0700 (Spring 2022) - Instructor [Jude Hays](https://sites.pitt.edu/~jch61/)
 * Research Methods in Political Science - PS 0700 (Fall 2021) - Instructor [Max Goplerud](https://mgoplerud.com/)
 
 ### Undergraduate, Universidad de la República  
