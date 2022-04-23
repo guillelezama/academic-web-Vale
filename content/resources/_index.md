@@ -8,7 +8,7 @@ layout: docs  # Do not modify.
 #   image: ""
 ---
 
-# R package *tscsdep*: Tools for analyzing country-year time-series-cross-sectional data with spatial and temporal dependence
+### R package *tscsdep*: Tools for analyzing country-year time-series-cross-sectional data with spatial and temporal dependence
  
  Hays, Jude C., Valentina González-Rostani, Scott Cook, Robert Franzese, and Wooseok Kim. (2022). version 0.1.0. https://github.com/judechays/STADL
 
@@ -18,21 +18,21 @@ Install package:
 
     library(devtools); devtools::install_github("judechays/STADL", dependencies = TRUE)
 
-# Some other projects
+### Other projects
 
 Hi! Here you can find some side projects of things that I have learned, and as I enjoyed learning them, I also enjoy sharing them. Most of them are for "beginners," but it is always good to have a nice starting point. I will be updating as I systematize some of my work. I hope you find it helpful. 
 
-### Latex Tips  
+#### Latex Tips  
 [See my repo](https://github.com/gonzalezrostani/Latex-Tips), and [Overleaf](https://www.overleaf.com/read/rrdfvjbpfyrq)
 
-### Beginning with Github 
+#### Beginning with Github 
 [See my repo](https://github.com/gonzalezrostani/Beginning-with-Git/blob/master/labNotes.md)
 
-### Introduction to SVM and Scikit-learn 🤖 🦾
+#### Introduction to SVM and Scikit-learn 🤖 🦾
 In the following links you can find an introduction to SVM 
 
 * [See my repo](https://github.com/gonzalezrostani/Support-Vector-Machine)
 * [Tutorial video](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f994000-d1d1-49bf-bec2-ac810157b3b6)
 
-### Data Access and Research Transparency in Political Science
+#### Data Access and Research Transparency in Political Science
 [See here](https://github.com/gonzalezrostani/academic-kickstart-vale/blob/master/content/resources/Professionalization.pdf)
