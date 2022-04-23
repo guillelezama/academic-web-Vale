@@ -8,6 +8,15 @@ layout: docs  # Do not modify.
 #   image: ""
 ---
 
+# tscsdep: Tools for analyzing country-year time-series-cross-sectional data with spatial and temporal dependence
+ 
+ Hays, Jude C., Valentina González-Rostani, Scott Cook, Robert Franzese, and Wooseok Kim. (2022). version 0.1.0. https://github.com/judechays/STADL
+
+This package contains multiple functions that help create geographic spatial weights matrices and estimate spatial lag models. At present, it can estimate weights matrices of unbalanced data up until the year 2019. It also provides researchers with an easy to use wrapper for estimating Spatial AutoRegressive (SAR) lag models, error models (SEM), and Spatial Autocorrelation models (SAC).
+
+
+# Some other projects
+
 Hi! Here you can find some side projects of things that I have learned, and as I enjoyed learning them, I also enjoy sharing them. Most of them are for "beginners," but it is always good to have a nice starting point. I will be updating as I systematize some of my work. I hope you find it helpful. 
 
 ### Latex Tips  
