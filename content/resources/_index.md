@@ -14,6 +14,8 @@ layout: docs  # Do not modify.
 
 This package contains multiple functions that help create geographic spatial weights matrices and estimate spatial lag models. At present, it can estimate weights matrices of unbalanced data up until the year 2019. It also provides researchers with an easy to use wrapper for estimating Spatial AutoRegressive (SAR) lag models, error models (SEM), and Spatial Autocorrelation models (SAC).
 
+Install package:
+
     library(devtools); devtools::install_github("judechays/STADL", dependencies = TRUE)
 
 # Some other projects
