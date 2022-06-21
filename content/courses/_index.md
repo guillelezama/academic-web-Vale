@@ -13,7 +13,8 @@ layout: docs  # Do not modify.
 
 #### Research Methods 
 
-* Research Methods in Political Science - PS 0700 (Summer 2022) 
+* Research Methods in Political Science - PS 0700 (Summer 2022) [[Syllabus]](https://www.dropbox.com/s/shpfv8m1ke1iyr3/PS0700_S22.pdf?dl=0)
+
 
 # Teaching Assistant 
 
