@@ -146,4 +146,9 @@ details > p {
 
 
 
-##### **"Logros sindicales y relaciones de poder: el caso del SUNCA, Uruguay 2005 – 2014." 2017. _XVI Jornadas de Investigación : la excepcionalidad uruguaya en debate: ¿como el Uruguay no hay?_ See [paper](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/10784) [Spanish]**
+##### **"Logros sindicales y relaciones de poder: el caso del SUNCA, Uruguay 2005 – 2014." 2017. _XVI Jornadas de Investigación : la excepcionalidad uruguaya en debate: ¿como el Uruguay no hay?_ See  [Spanish]**
+
+<details><summary>Abstract</summary><p>Esta investigación analiza las transformaciones en las relaciones laborales y el sindicalismo en Uruguay en el periodo 2005 - 2014, a través del estudio del caso del Sindicato Único de la Construcción y Anexos. En primer lugar, se sistematizaron los logros sindicales vinculados a las condiciones de trabajo : libertad sindical, mejoras en la estabilidad laboral, cambios en la duración de la jornada, regulaciones de la cantidad y calidad del trabajo, mejoras en seguridad e higiene y avances en la no discriminación laboral. En segundo lugar, se obtuvo evidencia de que más del 66% del contenido de los acuerdos colectivos referían a aspectos no salariales. Por último, el factor organizativo fue identificado como clave para estas conquistas y se observó una revitalización sindical, a través de relaciones de colaboración entre actores, reformas internas, formas alternativas de participación solidarias y fortalecimiento institucional.</p>
+</details> &nbsp; 
+[Article](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/10784){: .btn--research}
+
