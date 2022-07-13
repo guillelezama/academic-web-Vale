@@ -64,6 +64,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi, and welcome! I’m a Ph.D. Candidate at the University of Pittsburgh. My main research interests lie at the intersection of International Political Economy and Comparative Politics. My current research focuses on the political consequences of technological change, such as preferences for redistribution, political disengagement, and populist vote. I am also interested in the analysis of international trade, inequality, labor informality, and labor policies. 
+
+Hello and thanks for visiting my website! My name is Valentina González-Rostani, and I’m a Ph.D. candidate (ABD) at the University of Pittsburgh. My main research interests lie at the intersection of International Political Economy and Comparative Politics. My dissertation mainly focuses on the political consequences of technological change on individual political behavior and the evolution of party systems. It looks at the interplay between economic, cultural, and institutional factors. I use a mixed-methods approach in my work, incorporating quantitative analysis and formal modeling. I am also interested in international trade, inequality, labor informality, and automation's effects on climate change.
 
 I am from Uruguay, where I taught classes on labor relations and administration at the [Universidad de la Republica](https://udelar.edu.uy/portal/). Before coming to Pitt, I obtained a MA in Public Policies at the [Universidad Católica del Uruguay](https://ucu.edu.uy/es/taxonomy/term/40/node/113) and a BA in Public Accounting from Universidad de la Republica.
+
+You can check out my ongoing research projects below, as well as some resources I’ve worked on here [here](https://gonzalez-rostani.netlify.app/resources/). Teaching experience and materials are available [here](https://gonzalez-rostani.netlify.app/courses/). 
+
+Please feel free to contact me at: mag384 [at] pitt [dot] edu
