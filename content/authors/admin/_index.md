@@ -69,6 +69,6 @@ Hello and thanks for visiting my website! I’m a Ph.D. candidate (ABD) at the U
 
 I am from Uruguay, where I taught classes on labor relations and administration at the [Universidad de la Republica](https://udelar.edu.uy/portal/). Before coming to Pitt, I obtained a MA in Public Policies at the [Universidad Católica del Uruguay](https://ucu.edu.uy/es/taxonomy/term/40/node/113) and a BA in Public Accounting from Universidad de la Republica.
 
-You can check out my ongoing research projects below, as well as some resources I’ve worked on here [here](https://gonzalez-rostani.netlify.app/resources/). Teaching experience and materials are available [here](https://gonzalez-rostani.netlify.app/courses/). 
+You can check out my ongoing research projects below, as well as some resources I’ve worked on [here](https://gonzalez-rostani.netlify.app/resources/). Teaching experience and materials are available [here](https://gonzalez-rostani.netlify.app/courses/). 
 
 Please feel free to contact me at: mag384 [at] pitt [dot] edu
