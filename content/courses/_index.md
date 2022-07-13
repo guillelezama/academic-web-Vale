@@ -53,7 +53,7 @@ Research Methods in Political Science - PS 0700 (Summer 2022) [[Syllabus]](https
 <tbody>
   <tr>
     <td class="tg-asj6" rowspan="2"><a href="https://www.polisci.pitt.edu/" target="_blank" rel="noopener noreferrer">University of Pittsburgh</a></td>
-    <td class="tg-asj6" rowspan="2">Research and Methods in Political Science</td>
+    <td class="tg-asj6" rowspan="2">Research Methods in Political Science</td>
     <td class="tg-asj6" rowspan="2">UG</td>
     <td class="tg-ze80">S2022 </td>
     <td class="tg-asj6"><a href="https://sites.pitt.edu/~jch61/" target="_blank" rel="noopener noreferrer">Jude Hays</a></td>
