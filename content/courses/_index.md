@@ -58,7 +58,7 @@ layout: docs  # Do not modify.
     <td class="tg-asj6" rowspan="6">Universidad de la Republica<br></td>
     <td class="tg-asj6">Labor Law and Social Security</td>
     <td class="tg-asj6">UG</td>
-    <td class="tg-ze80">Every Spring<br>2018 - 2014</td>
+    <td class="tg-ze80">S2014 - S2018<br></td>
     <td class="tg-asj6"></td>
   </tr>
   <tr>
