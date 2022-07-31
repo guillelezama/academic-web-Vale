@@ -154,6 +154,12 @@ details > p {
 <details><summary>Abstract</summary><p>Research on the political consequences of economic inequality focuses almost exclusively on relative inequality, using measures such as percentile ratios and gini coefficients for empirical analysis. Measures of relative inequality facilitate empirical comparison across space and time, but they do not always match theories that connect economic and political inequality. We demonstrate with a simple theoretical model that proportionate increases in income, gains that preserve levels of relative inequality in the population but increase levels of absolute inequality, generate greater inequality in campaign contributions from the poor and rich. Using data from U.S. Congressional Districts, we show empirically that greater levels of absolute inequality, rather than relative inequality, are in fact associated with larger differences in the rate at which rich and poor constituents make campaign contributions.</p>
 </details> &nbsp; 
 
+##### **"_Love of Variety? Behavioral Determinants of the Opposition to Trade_" 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) and [Junghyun Lim](https://junghyunlim.github.io/)**
+
+<details><summary>Abstract</summary><p>There is a strong empirical association between individually held trade attitudes and nationalism. Unfortunately, the causal mechanisms behind this correlation are poorly understood. Using a survey experiment to develop consumer profiles for respondents randomly exposed to different market conditions, we explore the overlooked possibility that consumption-related decisions, made in markets supplied with internationally diverse products, trigger nationalism, particularly among the subset of the population predisposed to xenophobia.  Our results have important implications for understanding the contemporary political backlash against economic globalization as well as for standard "love of variety" models of international trade.</p>
+</details> &nbsp; 
+
+
 
 ##### **"_Protest Diffusion: Unpacking the Spatial and Temporal Contagion of Protest Events_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)**
 
