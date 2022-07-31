@@ -141,6 +141,9 @@ details > p {
 ##### **"_That’s What a Populist Would Say!: Measuring Populism Using Machine Learning_" 2022. with [Michael Colaresi](https://michaelcolaresi.com/) (to be presented at APSA  2022)** 
 
 
+
+
+
 ##### **"_The Threat of Automation and Public Support for Environmental Policy_" 2022. with [Liam F. Beiser-McGrath](http://www.liambeisermcgrath.com/) and [Michaël Aklin](https://michaelaklin.github.io/) (presented at EPG 2022)**
 
 <details><summary>Abstract</summary><p>Automation -- the replacement of human labor by machines -- has transformed economies around the world over the last decades, with broad political and social consequences. In this paper, we argue that the automation risk also affects individuals' environmental concern and subsequent policy support. The long-term economic risk posed by automation is expected to reduce environmental concern amongst those affected, due to a deprioritisation of long-term issues that also necessitate economic transformation. Automation risk subsequently leads to individuals being less supportive of environmental policy that imposes immediate direct costs, such as carbon taxation. In contrast, support for policies with indirect costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using hierarchical logistic modeling with varying intercepts by country and individual-level data from the European Social Survey (ESS) from 2002 to 2018 for 23 European countries, we present evidence that individuals more exposed to technological change are less likely to hold environmental concerns. Moreover, using causal mediation analysis with data from the eight wave of the ESS (2016), we explore how exposure to automation affect support for environmental policies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
@@ -153,6 +156,8 @@ details > p {
 
 
 ##### **"_Protest Diffusion: Unpacking the Spatial and Temporal Contagion of Protest Events_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)
+
+
 
 
 
