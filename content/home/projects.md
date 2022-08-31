@@ -130,6 +130,12 @@ details > p {
 </details> &nbsp; 
 
 
+##### **"_When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)**
+
+<details><summary>Abstract</summary><p>Are protests contained to their specific space and time or do they have the ability to spread across borders and in the future? This question has interested scholars of social movements and political behavior for decades but the literature provides a mixed picture on whether protests diffuse throughout time and space. Using protest event analysis and novel spatiotemporal autoregressive distributed lag (STADL) models designed to capture both temporal and spatial dependence in the same model, we find significant dependencies across both time and space. Protests in one time period shape the onset of protests in the future and protests in one country increase protests in a neighboring country. These results help us understand the dynamics of protest diffusion and have important implications for the study of political behavior and social movements.</p>
+</details> &nbsp; 
+
+
 ### Work in progress 
 
 ##### **"_Automation, Culture, and Vote Choices_" 2022. (to be presented at APSA and IPES 2022)**
@@ -160,8 +166,6 @@ details > p {
 </details> &nbsp; 
 
 
-
-##### **"_Protest Diffusion: Unpacking the Spatial and Temporal Contagion of Protest Events_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)**
 
 
 
