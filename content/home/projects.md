@@ -5,7 +5,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Current Research"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -105,6 +105,13 @@ details > p {
 }
 </style>
 
+<p>{% include toc title=“Tags” %}</p>
+<style>
+details {
+  float:left;
+  cursor: pointer;
+}
+
 ## Publications
 
 ##### "_Legislators’ Religiosity and Same-Sex Marriage in Latin America_" 2021 with [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Forthcoming at Latin American Research Review - LARR)_
@@ -173,6 +180,7 @@ details > p {
 
 
 
+## Previous Work
 
 
 
