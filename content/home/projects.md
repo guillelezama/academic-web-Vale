@@ -105,7 +105,7 @@ details > p {
 }
 </style>
 
-### Publications
+# Publications
 
 ##### "_Legislators’ Religiosity and Same-Sex Marriage in Latin America_" 2021 with [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Forthcoming at Latin American Research Review - LARR)_
 
@@ -115,7 +115,7 @@ details > p {
 </details> &nbsp; 
 
 
-### Working papers 
+# Working papers 
 
 
 ##### **"_Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?_" 2021. (presented at LASA 2021)**
@@ -141,7 +141,7 @@ details > p {
 </details> &nbsp; 
 
 
-### Work in progress 
+# Work in progress 
 
 ##### **"_Automation, Culture, and Vote Choices_" 2022. (to be presented at APSA and IPES 2022)**
 
