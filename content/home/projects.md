@@ -154,8 +154,9 @@ details > p {
 
 <details><summary>Abstract</summary><p>Among those with strongly held nationalist predispositions, do consumption-related evaluations of foreign products intensify feelings of consumption and producer ethnocentrism? Research in political science and economics has identified a strong empirical association between individually held trade attitudes and nationalism. Unfortunately, the causal mechanism(s) behind this correlation are poorly understood. We use a survey experiment to explore the possibility that consumption-related decisions, evaluating the price reasonableness of foreign products, trigger feelings of ethnocentrism. We hypothesize that the average level of consumer ethnocentrism decreases among pre-treatment cosmopolitans asked to evaluate and consider purchasing foreign sports utility vehicles (SUVs), presumably because they are reminded of the price and variety benefits of trade. In contrast, the average level of consumer ethnocentrism increases among pre-treatment nationalists exposed to the same condition due to status threat and other out-group anxieties identified in the literature. Our results have important implications for understanding the contemporary political backlash against economic globalization as well as for standard ``love of variety" models of international trade.</p>
 </details> &nbsp; 
-<details><summary>Pre-Analysis Plan</summary><p>[OSF Registration](https://osf.io/y8nrm)</p>
+<details><summary><a href="https://osf.io/y8nrm">Pre-Analysis Plan</a> </summary><p> </p>
 </details> &nbsp; 
+
 
 ##### **"_You Can't Stop It If You Can't See It: Introducing a New Scalable System to Measure Populist Narratives at Higher Resolution_" 2022. with  [Bree Bang-Jensen](https://www.breebangjensen.com/) and [Michael Colaresi](https://michaelcolaresi.com/) (to be presented at MPSA  2023)** 
 
