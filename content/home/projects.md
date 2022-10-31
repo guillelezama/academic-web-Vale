@@ -119,11 +119,11 @@ details > p {
 
 # Working papers 
 
+##### **"_Automation, Culture, and Vote Choices_" 2022. (presented at APSA and IPES 2022)**
 
-##### **"_Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?_" 2021. (presented at LASA 2021)**
-
-<details><summary>Abstract</summary><p>Political economists have explored the implications of firm heterogeneity for trade politics, but existing studies do not explain how the effects of labor politics distribute across firms. This paper contributes by analyzing the impact of wage bargaining by firm size. It empirically tests theoretical expectations about the uneven distribution of effects by looking at a drastic change in labor market policies in Uruguay, where the government instituted coordinated wage bargaining and a minimum wage (MW) increase, causing a regulatory shock for all firms. However, small firms were more exposed to the MW increase than their large counterparts. Adopting a Fuzzy-DID approach, I demonstrate that small firms were less able to increase wages, faced higher formalization costs, and lost the most skilled workers. These findings have important implications for understanding wage bargaining politics and firm heterogeneity in developing countries, which I discuss.</p>
+<details><summary>Abstract</summary><p>How does revolutionary technological change translate into the political arena? Over the last two decades, we have seen an important restructuring of employment relationships in post-industrial societies, and technological change is widely considered one of the main drivers of these transformations. The emerging literature in political economy has shown that exposure to automation makes individuals more likely to support radical right parties. However, the extant works have not yet identified the mechanisms linking exposure to automation and political behavior. In this paper, I explore the potential mechanisms, focusing on the interplay between economic and cultural factors. Using mediation analysis and survey data from the European Social Survey (2012-2016) for thirteen European countries, I present evidence that outgroup threat and nostalgic sentiments mediate the effects of technological change on support for radical right parties and political disengagement. My findings have important implications for understanding the links between structural change in labor markets, cultural backlash, and political inequality.</p>
 </details> &nbsp; 
+
 
 
 ##### **"_Engaged Robots, and Disengaged Workers: Automation and Political Apathy_" 2022. (presented at MPSA 2022 and EUSA 2022)**
@@ -136,6 +136,11 @@ details > p {
 <details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization (LMP), we know much less about how this economic polarization translates into partisan polarization. I argue that the institutional environment moderates the relationship between LMP and partisan polarization, causing different varieties of polarization. I model an electoral competition between mainstream and outsider-populist parties, introducing a credible commitment problem for power-sharing institutions. I explore parties' strategies and identify the conditions under which candidates polarize. In contexts in which candidates and parties must build coalitions to govern, outsider parties' comparative advantage in extreme policies is lessened. Thus, policy differences shrink, but there is polarization over less divisible positions, such as anti-global nationalism. I further explore parties' strategies and highlight that higher LMP benefits the populist party when targeting the exposed group. Finally, I evaluate the theoretical implications using party manifesto data and vote-switching behavior with data from the US and Germany. My results have important implications for understanding the relationship between inequality and partisan polarization.</p>
 </details> &nbsp; 
 
+##### **"_Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?_" 2021. (presented at LASA 2021)**
+
+<details><summary>Abstract</summary><p>Political economists have explored the implications of firm heterogeneity for trade politics, but existing studies do not explain how the effects of labor politics distribute across firms. This paper contributes by analyzing the impact of wage bargaining by firm size. It empirically tests theoretical expectations about the uneven distribution of effects by looking at a drastic change in labor market policies in Uruguay, where the government instituted coordinated wage bargaining and a minimum wage (MW) increase, causing a regulatory shock for all firms. However, small firms were more exposed to the MW increase than their large counterparts. Adopting a Fuzzy-DID approach, I demonstrate that small firms were less able to increase wages, faced higher formalization costs, and lost the most skilled workers. These findings have important implications for understanding wage bargaining politics and firm heterogeneity in developing countries, which I discuss.</p>
+</details> &nbsp; 
+
 
 ##### **"_When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)**
 
@@ -145,10 +150,7 @@ details > p {
 
 # Work in progress 
 
-##### **"_Automation, Culture, and Vote Choices_" 2022. (presented at APSA and IPES 2022)**
 
-<details><summary>Abstract</summary><p>How does revolutionary technological change translate into the political arena? Over the last two decades, we have seen an important restructuring of employment relationships in post-industrial societies, and technological change is widely considered one of the main drivers of these transformations. The emerging literature in political economy has shown that exposure to automation makes individuals more likely to support radical right parties. However, the extant works have not yet identified the mechanisms linking exposure to automation and political behavior. In this paper, I explore the potential mechanisms, focusing on the interplay between economic and cultural factors. Using mediation analysis and survey data from the European Social Survey (2012-2016) for thirteen European countries, I present evidence that outgroup threat and nostalgic sentiments mediate the effects of technological change on support for radical right parties and political disengagement. My findings have important implications for understanding the links between structural change in labor markets, cultural backlash, and political inequality.</p>
-</details> &nbsp; 
 
 ##### **"_Love of Variety? Heterogeneous Responses to Foreign Goods in the Marketplace_" 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) and [Junghyun Lim](https://junghyunlim.github.io/) (presented at University of Strathclyde and the Hamburg Empirical Political Science Seminar Series 2022)** 
 
