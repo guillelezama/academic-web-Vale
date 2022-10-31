@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Social Sciences Doctoral Dissertation (SSDD) Fellowship"
+  company = "University of Pittsburgh"
+  company_url = "https://www.polisci.pitt.edu/"
+ date_start = "2022-05-01"
+  date_end = ""
+  
+  [[experience]]
+  title = "EITM Summer School Fellowship"
+  company = "Empirical Implications of Theoretical Models (EITM) Institute"
+  company_url = "https://eitminstitute.org/"
+ date_start = "2022-07-01"
+  date_end = "2022-08-01"
+  
+[[experience]]
+  title = "Graduate Student Fellowship"
+  company = "University of Pittsburgh"
+  company_url = "https://www.polisci.pitt.edu/"
+ date_start = "2019-05-01"
+  date_end = "2022-05-01"
+  
+[[experience]]
   title = "Master’s Research Scholarship"
   company = "National Agency of Research and Innovation (ANII)"
   company_url = "http://www.anii.org.uy/"
