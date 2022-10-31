@@ -13,11 +13,15 @@
   url = "courses/"
   weight = 40
 
-
+[[main]]
+  name = "Publications"
+  url = "#projects"
+  weight = 30
+  
 [[main]]
   name = "Research"
   url = "#projects"
-  weight = 30
+  weight = 32
 
 [[main]]
     name = "CV"
