@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   title = "Instructor of Record"
   company = "University of Pittsburgh"
   company_url = "https://www.polisci.pitt.edu/"
-  date_start = "2022-08-01"
-  date_end = ""
+  date_start = "2022-05-01"
+  date_end = "2022-08-01"
   
 [[experience]]
   title = "Teaching Assistant (TA)"
