@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Instructor of Record"
+  company = "University of Pittsburgh"
+  company_url = "https://www.polisci.pitt.edu/"
+  date_start = "2022-08-01"
+  date_end = ""
+  
+[[experience]]
   title = "Teaching Assistant (TA)"
   company = "University of Pittsburgh"
   company_url = "https://www.polisci.pitt.edu/"
