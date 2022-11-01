@@ -30,14 +30,14 @@ date_format = "Jan 2006"
   company = "University of Pittsburgh"
   company_url = "https://www.polisci.pitt.edu/"
   date_start = "2021-06-01"
-  date_end = ""
+  date_end = "2022-05-01"
   
 [[experience]]
   title = "Graduate Student Assistant (GSA)"
   company = "University of Pittsburgh"
   company_url = "https://www.polisci.pitt.edu/"
   date_start = "2020-06-01"
-  date_end = ""
+  date_end = "2021-05-01"
 
 [[experience]]
   title = "Teaching assistant (TA)"
