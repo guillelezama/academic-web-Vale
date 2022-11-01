@@ -47,6 +47,13 @@ date_format = "Jan 2006"
   date_end = "2019-03-01"
 
 [[experience]]
+  title = "Escuela de Invierno en Métodos y Análisis de Datos, fellowship"
+  company = "US Embassy"
+  company_url = "https://ucu.edu.uy/es/node/37414"
+ date_start = "2018-06-01"
+  date_end = "2018-07-28"
+  
+[[experience]]
   title = "IPSA Summer School, fellowship"
   company = "Universidad de la Republica (Udelar), Comisión Sectoral de Investigación Científica"
   company_url = "https://www.csic.edu.uy/"
