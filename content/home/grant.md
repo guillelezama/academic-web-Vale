@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   title = "Social Sciences Doctoral Dissertation (SSDD) Fellowship"
   company = "University of Pittsburgh"
   company_url = "https://www.polisci.pitt.edu/"
- date_start = "2022-05-01"
+ date_start = "2022-08-01"
   date_end = ""
   
   [[experience]]
