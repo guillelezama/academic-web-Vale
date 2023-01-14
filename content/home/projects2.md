@@ -109,6 +109,11 @@ details > p {
 
 # Working papers 
 
+##### **"_Varieties of Polarization in Advanced Democracies: From Economic  to Partisan Polarization_" 2022. (Invited to Revise and Resubmit at the Journal of Politics - JOP)** 
+
+<details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization (LMP), we know much less about how this economic polarization translates into partisan polarization. I argue that the institutional environment moderates the relationship between LMP and partisan polarization, causing different varieties of polarization. I model an electoral competition between mainstream and outsider-populist parties, introducing a credible commitment problem for power-sharing institutions. I explore parties' strategies and identify the conditions under which candidates polarize. In contexts in which candidates and parties must build coalitions to govern, outsider parties' comparative advantage in extreme policies is lessened. Thus, policy differences shrink, but there is polarization over less divisible positions, such as anti-global nationalism. I further explore parties' strategies and highlight that higher LMP benefits the populist party when targeting the exposed group. Finally, I evaluate the theoretical implications using party manifesto data and vote-switching behavior with data from the US and Germany. My results have important implications for understanding the relationship between inequality and partisan polarization.</p>
+</details> &nbsp; 
+
 ##### **"_Automation, Culture, and Vote Choices_" 2022. (presented at APSA and IPES 2022)**
 
 <details><summary>Abstract</summary><p>How does revolutionary technological change translate into the political arena? Over the last two decades, we have seen an important restructuring of employment relationships in post-industrial societies, and technological change is widely considered one of the main drivers of these transformations. The emerging literature in political economy has shown that exposure to automation makes individuals more likely to support radical right parties. However, the extant works have not yet identified the mechanisms linking exposure to automation and political behavior. In this paper, I explore the potential mechanisms, focusing on the interplay between economic and cultural factors. Using mediation analysis and survey data from the European Social Survey (2012-2016) for thirteen European countries, I present evidence that outgroup threat and nostalgic sentiments mediate the effects of technological change on support for radical right parties and political disengagement. My findings have important implications for understanding the links between structural change in labor markets, cultural backlash, and political inequality.</p>
@@ -121,30 +126,29 @@ details > p {
 <details><summary>Abstract</summary><p>  This paper investigages the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
 </details> &nbsp; 
 
-##### **"_Varieties of Polarization in Advanced Democracies: From Economic  to Partisan Polarization_" 2022. (presented at MPSA 2021, Workshop at Universidad Católica de Uruguay 2021, and EITM 2022)** 
 
-<details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization (LMP), we know much less about how this economic polarization translates into partisan polarization. I argue that the institutional environment moderates the relationship between LMP and partisan polarization, causing different varieties of polarization. I model an electoral competition between mainstream and outsider-populist parties, introducing a credible commitment problem for power-sharing institutions. I explore parties' strategies and identify the conditions under which candidates polarize. In contexts in which candidates and parties must build coalitions to govern, outsider parties' comparative advantage in extreme policies is lessened. Thus, policy differences shrink, but there is polarization over less divisible positions, such as anti-global nationalism. I further explore parties' strategies and highlight that higher LMP benefits the populist party when targeting the exposed group. Finally, I evaluate the theoretical implications using party manifesto data and vote-switching behavior with data from the US and Germany. My results have important implications for understanding the relationship between inequality and partisan polarization.</p>
-</details> &nbsp; 
 
-##### **"_Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?_" 2021. (presented at LASA 2021)**
+##### **"_Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?_" 2021. (presented at LASA 2021, Under Review)**
 
 <details><summary>Abstract</summary><p>Political economists have explored the implications of firm heterogeneity for trade politics, but existing studies do not explain how the effects of labor politics distribute across firms. This paper contributes by analyzing the impact of wage bargaining by firm size. It empirically tests theoretical expectations about the uneven distribution of effects by looking at a drastic change in labor market policies in Uruguay, where the government instituted coordinated wage bargaining and a minimum wage (MW) increase, causing a regulatory shock for all firms. However, small firms were more exposed to the MW increase than their large counterparts. Adopting a Fuzzy-DID approach, I demonstrate that small firms were less able to increase wages, faced higher formalization costs, and lost the most skilled workers. These findings have important implications for understanding wage bargaining politics and firm heterogeneity in developing countries, which I discuss.</p>
 </details> &nbsp; 
 
 
-##### **"_When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)**
+##### **"_When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)** (Submitted)
 
 <details><summary>Abstract</summary><p>Are protests contained to their specific space and time or do they have the ability to spread across borders and in the future? This question has interested scholars of social movements and political behavior for decades but the literature provides a mixed picture on whether protests diffuse throughout time and space. Using protest event analysis and novel spatiotemporal autoregressive distributed lag (STADL) models designed to capture both temporal and spatial dependence in the same model, we find significant dependencies across both time and space. Protests in one time period shape the onset of protests in the future and protests in one country increase protests in a neighboring country. These results help us understand the dynamics of protest diffusion and have important implications for the study of political behavior and social movements.</p>
 </details> &nbsp; 
-
-
-# Work in progress 
 
 
 ##### **"_The Threat of Automation and Public Support for Environmental Policy_" 2022. with [Liam F. Beiser-McGrath](http://www.liambeisermcgrath.com/) and [Michaël Aklin](https://michaelaklin.github.io/) (presented at EPG 2022, and to be presented at [Techno debates](https://techno-norface.net/techno-debates/) 2022)**
 
 <details><summary>Abstract</summary><p>Automation -- the replacement of human labor by machines -- has transformed economies around the world over the last decades, with broad political and social consequences. In this paper, we argue that the automation risk also affects individuals' environmental concern and subsequent policy support. The long-term economic risk posed by automation is expected to reduce environmental concern amongst those affected, due to a deprioritisation of long-term issues that also necessitate economic transformation. Automation risk subsequently leads to individuals being less supportive of environmental policy that imposes immediate direct costs, such as carbon taxation. In contrast, support for policies with indirect costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using hierarchical logistic modeling with varying intercepts by country and individual-level data from the European Social Survey (ESS) from 2002 to 2018 for 23 European countries, we present evidence that individuals more exposed to technological change are less likely to hold environmental concerns. Moreover, using causal mediation analysis with data from the eight wave of the ESS (2016), we explore how exposure to automation affect support for environmental policies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
 </details> &nbsp; 
+
+
+# Work in progress 
+
+
 
 ##### **"_You Can't Stop It If You Can't See It: Introducing a New Scalable System to Measure Populist Narratives at Higher Resolution_" 2022. with  [Bree Bang-Jensen](https://www.breebangjensen.com/) and [Michael Colaresi](https://michaelcolaresi.com/) (to be presented at MPSA  2023)** 
 
@@ -170,7 +174,7 @@ details > p {
 
 
 
-# Previous Work
+# Pre-PhD
 
 
 
