@@ -25,6 +25,8 @@ layout: docs  # Do not modify.
 
 # Training
 
-2023 [[**Achievement in Pedagogy Badge**]](https://teaching.pitt.edu/graduate-student-teaching/pedagogy-credential/), University of Pittsburgh.
+2023 [**Achievement in Pedagogy Badge**](https://teaching.pitt.edu/graduate-student-teaching/pedagogy-credential/), University of Pittsburgh.
+
 2016 Thinking about teaching at university, Universidad de la Republica.
+
 2016 Didactic ateneo. Rethinking teaching and evaluation in a context of high student numbers, Universidad de la Republica.
